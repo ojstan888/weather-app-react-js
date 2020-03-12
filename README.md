@@ -1,1 +1,1 @@
-Created Weather app on ReactJS
+Created Weather app on ReactJS with API

@@ -6,5 +6,4 @@ const Form = props => (
         <button className="button">Узнать погоду</button>
     </form>
 )
-
 export default Form; 
